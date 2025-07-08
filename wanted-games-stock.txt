@@ -319,6 +319,7 @@ SPS1G1143AB, Nuneaton
 5030930045494, Roath Cardiff
 SPS1G204AB, Hertford
 SPS1G1520AB, Chatham
-SPS1G1520AB, Tonbridge
 SPS1G1520AB, Tooting
 SPS1G1520AB, Winchester
+SPS1G506AB, Newcastle Grainger St
+SPS1G1520AB, Coalville
