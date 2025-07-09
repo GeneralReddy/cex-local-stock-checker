@@ -326,3 +326,4 @@ SLEGPS2S560B, Whitechapel
 SPS1G1423AB, Northfield
 SPS1G204AB, Kingston
 SPS1G1423AB, Hatfield
+SPS1G506AB, Scarborough
