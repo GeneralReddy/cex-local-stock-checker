@@ -333,4 +333,3 @@ SPS1G1423AB, Arnison Durham
 SPS1G1423AB, Bootle
 5030930045494, Great Yarmouth
 SPS1G1143AB, North Finchley
-640516583330, South Shields
