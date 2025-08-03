@@ -334,4 +334,3 @@ SPS1G1144AB, Bangor
 SPS1G1143AB, Hull Northpoint
 5030930045494, Pontypridd
 SPS1G1144AB, Nottingham Victoria
-SPS1G1429AB, Wrexham
