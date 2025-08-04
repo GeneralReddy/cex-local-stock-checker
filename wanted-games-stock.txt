@@ -335,3 +335,4 @@ SPS1G1143AB, Hull Northpoint
 5030930045494, Pontypridd
 SPS1G1144AB, Nottingham Victoria
 5060040050088, Chester
+5060040050088, Beaumont Leys Leicester
