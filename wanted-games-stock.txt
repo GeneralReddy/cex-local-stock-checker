@@ -318,7 +318,6 @@ SPS1G204AB, Hertford
 SPS1G1520AB, Chatham
 SPS1G1520AB, Tooting
 SPS1G1520AB, Winchester
-SLEGPS2S560B, Whitechapel
 SPS1G1423AB, Northfield
 SPS1G1423AB, Hatfield
 SPS1G1520AB, Wimbledon
