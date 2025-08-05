@@ -327,7 +327,6 @@ SPS1G1423AB, Stirling
 SPS1G1423AB, Bootle
 SPS1G1143AB, North Finchley
 SPS1G1143AB, Leeds White Rose
-SLEGPS2S1670B, Ellesmere Port
 SPS1G1144AB, Redhill
 SPS1G1144AB, Bangor
 SPS1G1143AB, Hull Northpoint
