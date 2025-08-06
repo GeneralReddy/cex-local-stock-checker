@@ -334,7 +334,7 @@ SPS1G1143AB, Hull Northpoint
 5060040050088, Chester
 5060040050088, Beaumont Leys Leicester
 SPS1G1143AB, Milton Keynes
-SLEGPS2S1670B, Coventry Arena Park
 SLEGPS2S560B, Leigh
 SLEGPS2S560B, Bolton
 5030930045494, Harlow
+SLEGPS2S560B, Middleton
