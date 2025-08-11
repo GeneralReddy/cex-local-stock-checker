@@ -7,8 +7,6 @@ SLEGPS2S2121B #Ultimate Spider-Man Limited Edition
 3296580810994 #Dragon Ball Z: Raging Blast Limited Edition
 SLEGPS2S1670B #Secret Agent Clank
 711719227359 #Killzone Trilogy
-711719861928 #Ape Escape Academy
-640516583330 #Mortuary Assistant
 SPS1G1152AB #Chaos Break
 SPS1G187AB #The Note
 5060040050088 #Galerians Ash
@@ -24,3 +22,4 @@ SPS1G204AB #Overblood
 SLEGPS2S560B #Echo Night Beyond
 4012927092828 #Calling
 SPS1G1520AB #Jackie Chan's Stuntmaster
+3391891959629 #Armored Core V
