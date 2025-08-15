@@ -321,7 +321,6 @@ SPS1G1520AB, Winchester
 SPS1G1423AB, Northfield
 SPS1G1520AB, Wimbledon
 SPS1G1423AB, Newcastle upon Tyne
-SPS1G1423AB, Guildford
 SPS1G1423AB, Stirling
 SPS1G1423AB, Bootle
 SPS1G1143AB, North Finchley
@@ -340,5 +339,4 @@ SPS1G1143AB, Cookstown
 SPS1G1520AB, Epsom
 3391891959629, Ashton Under Lyne
 3391891959629, Mansfield
-SPS1G204AB, Lakeside
 SPS1G1423AB, Cwmbran
