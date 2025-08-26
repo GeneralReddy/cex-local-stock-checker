@@ -345,3 +345,4 @@ SPS1G1423AB, Glasgow Forge
 SPS1G1520AB, Southend
 SPS1G1423AB, Barry
 5060040050088, Bridlington
+SPS1G1423AB, Roath Cardiff
