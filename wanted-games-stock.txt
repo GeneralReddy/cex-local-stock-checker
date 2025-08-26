@@ -316,7 +316,6 @@ SPS1G306AB, Coventry Cannon Park
 5030930045494, Roath Cardiff
 SPS1G204AB, Hertford
 SPS1G1520AB, Chatham
-SPS1G1520AB, Tooting
 SPS1G1520AB, Winchester
 SPS1G1423AB, Northfield
 SPS1G1520AB, Wimbledon
