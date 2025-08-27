@@ -346,3 +346,5 @@ SPS1G1520AB, Southend
 SPS1G1423AB, Roath Cardiff
 SPS1G1144AB, Feltham
 SPS1G1423AB, Irvine
+SLEGPS2S777B, Richmond
+SLEGPS2S560B, Leicester Gallowtree Gate
