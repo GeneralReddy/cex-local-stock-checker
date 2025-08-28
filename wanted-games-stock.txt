@@ -347,3 +347,4 @@ SPS1G1423AB, Roath Cardiff
 SPS1G1144AB, Feltham
 SPS1G1423AB, Irvine
 SLEGPS2S560B, Leicester Gallowtree Gate
+SPS1G1423AB, Clydebank
