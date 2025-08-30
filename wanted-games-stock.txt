@@ -341,7 +341,6 @@ SPS1G1143AB, Stirling
 SPS1G1423AB, Glasgow Forge
 3391891959629, Redcar
 SPS1G1520AB, Southend
-5060040050088, Bridlington
 SPS1G1423AB, Roath Cardiff
 SPS1G1423AB, Irvine
 SLEGPS2S560B, Leicester Gallowtree Gate
