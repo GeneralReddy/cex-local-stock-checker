@@ -321,7 +321,6 @@ SPS1G1423AB, Northfield
 SPS1G1520AB, Wimbledon
 SPS1G1423AB, Stirling
 SPS1G1423AB, Bootle
-SPS1G1143AB, Leeds White Rose
 5030930045494, Pontypridd
 5060040050088, Chester
 5060040050088, Beaumont Leys Leicester
@@ -349,4 +348,3 @@ SLEGPS2S560B, Peckham
 SPS1G1520AB, Elephant and Castle
 SLEGPS2S560B, Portsmouth North End
 SPS1G1520AB, Ilford
-SPS1G1144AB, East Grinstead
