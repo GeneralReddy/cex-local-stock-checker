@@ -335,7 +335,6 @@ SPS1G1143AB, Stirling
 5060040050088, Southampton
 3391891959629, Redcar
 SPS1G1423AB, Roath Cardiff
-SPS1G1423AB, Irvine
 SLEGPS2S560B, Leicester Gallowtree Gate
 SPS1G1423AB, Clydebank
 SLEGPS2S560B, Peckham
