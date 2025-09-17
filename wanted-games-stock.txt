@@ -353,3 +353,5 @@ SPS1G1520AB, Wakefield
 4012927030196, Hatfield
 5060040050088, Boston Bargate
 SLEGPS2S560B, Newcastle Grainger St
+SPS1G204AB, Uxbridge
+4012927030196, Port Talbot
