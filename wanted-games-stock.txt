@@ -329,7 +329,6 @@ SLEGPS2S560B, Middleton
 3391891959629, Mansfield
 SPS1G1143AB, Stirling
 3391891959629, Nantwich
-5060040050088, Southampton
 3391891959629, Redcar
 SPS1G1423AB, Roath Cardiff
 SLEGPS2S560B, Leicester Gallowtree Gate
@@ -344,7 +343,6 @@ SPS1G1143AB, Leeds
 SPS1G1520AB, Aldershot
 SPS1G1423AB, Cwmbran
 SPS1G1144AB, Worthing
-SPS1G1143AB, Bridlington
 SPS1G204AB, Thetford
 SPS1G204AB, Epsom
 SPS1G1143AB, Shrewsbury Castle Street
