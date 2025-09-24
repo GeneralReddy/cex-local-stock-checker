@@ -342,7 +342,6 @@ SPS1G1144AB, Bangor
 SPS1G1143AB, Leeds
 SPS1G1520AB, Aldershot
 SPS1G1423AB, Cwmbran
-SPS1G1144AB, Worthing
 SPS1G204AB, Thetford
 SPS1G204AB, Epsom
 SPS1G1143AB, Shrewsbury Castle Street
