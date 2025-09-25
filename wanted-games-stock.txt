@@ -355,3 +355,4 @@ SPS1G1423AB, Glasgow Forge
 SLEGPS2S560B, East Ham
 4012927030196, Newcastle under Lyme
 SPS1G506AB, Slough
+SPS1G1143AB, Leeds White Rose
