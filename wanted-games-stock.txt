@@ -338,7 +338,6 @@ SPS1G1520AB, Elephant and Castle
 SLEGPS2S560B, Portsmouth North End
 SLEGPS2S560B, Glasgow - Union Street
 5060040050088, Southend
-SPS1G1143AB, Leeds
 SPS1G1520AB, Aldershot
 SPS1G1423AB, Cwmbran
 SPS1G204AB, Thetford
@@ -350,10 +349,9 @@ SLEGPS2S560B, Newcastle Grainger St
 SPS1G1423AB, Kingswood
 SPS1G1144AB, Walthamstow
 SPS1G1423AB, Peckham
-4012927030196, Woolwich
 SPS1G204AB, Coventry - Hertford St
 SPS1G1520AB, Tooting
 SPS1G1423AB, Glasgow Forge
-SPS1G1143AB, Leeds White Rose
 SLEGPS2S560B, East Ham
 4012927030196, Newcastle under Lyme
+SPS1G506AB, Slough
