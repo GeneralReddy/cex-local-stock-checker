@@ -336,7 +336,6 @@ SPS1G1423AB, Clydebank
 SLEGPS2S560B, Peckham
 SPS1G1520AB, Elephant and Castle
 SLEGPS2S560B, Portsmouth North End
-SLEGPS2S560B, Glasgow - Union Street
 5060040050088, Southend
 SPS1G1520AB, Aldershot
 SPS1G1423AB, Cwmbran
@@ -360,3 +359,4 @@ SPS1G1143AB, Leeds White Rose
 5060040050088, Coventry - Hertford St
 SLEGPS2S560B, Morley
 SLEGPS2S560B, Leeds White Rose
+SLEGPS2S560B, Leeds Crossgates
