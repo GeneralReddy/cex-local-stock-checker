@@ -360,3 +360,5 @@ SPS1G1143AB, Leeds White Rose
 SLEGPS2S560B, Morley
 SLEGPS2S560B, Leeds White Rose
 SLEGPS2S560B, Leeds Crossgates
+SLEGPS2S1670B, Uxbridge
+SPS1G1423AB, Warrington
