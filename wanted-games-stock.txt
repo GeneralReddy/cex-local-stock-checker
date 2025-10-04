@@ -357,7 +357,6 @@ SLEGPS2S560B, Morley
 SLEGPS2S560B, Leeds Crossgates
 SLEGPS2S1670B, Uxbridge
 SPS1G1423AB, Warrington
-SLEGPS2S560B, Glasgow - Union Street
 SLEGPS2S1670B, Wimbledon
 711719227359, Kidderminster
 5060040050088, Clydebank
