@@ -333,7 +333,6 @@ SPS1G1423AB, Roath Cardiff
 SLEGPS2S560B, Leicester Gallowtree Gate
 SLEGPS2S560B, Peckham
 SPS1G1520AB, Elephant and Castle
-SLEGPS2S560B, Portsmouth North End
 5060040050088, Southend
 SPS1G1520AB, Aldershot
 SPS1G1423AB, Cwmbran
