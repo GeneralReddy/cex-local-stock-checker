@@ -1,7 +1,5 @@
 5060125480397 #Zombie Virus
-8023171007397 #Zombie Attack
 SPS1G458AB #Spawn: The Eternal
-SPS1G506AB #Street Fighter Alpha: Warrior's Dream
 SLEGPS2S2121B #Ultimate Spider-Man Limited Edition
 3296580810994 #Dragon Ball Z: Raging Blast Limited Edition
 SLEGPS2S1670B #Secret Agent Clank
@@ -20,5 +18,6 @@ SPS1G204AB #Overblood
 SLEGPS2S560B #Echo Night Beyond
 4012927092828 #Calling
 SPS1G1520AB #Jackie Chan's Stuntmaster
+SLEGPS2S1728C #Silent Hill: Shattered Memories
 SLEGPS2S1728C #Silent Hill: Shattered Memories
 SPS5P2TB30G001 #PS5 30th Anniversary
