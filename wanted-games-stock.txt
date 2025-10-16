@@ -367,3 +367,4 @@ SPS1G1423AB, Thetford
 SPS1G204AB, Ellesmere Port
 SPS1G1144AB, Northfield
 SPS1G1152AB, Workington
+SPS1G1143AB, Ashington
