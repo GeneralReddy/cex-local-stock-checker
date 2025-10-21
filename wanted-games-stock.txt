@@ -368,3 +368,4 @@ SPS1G1520AB, Lincoln
 SLEGPS2S1670B, Coventry Arena Park
 SLEGPS2S560B, Lakeside
 SLEGPS2S560B, Kennedy Centre
+SLEGPS2S560B, Coventry - Hertford St
