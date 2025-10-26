@@ -327,7 +327,6 @@ SLEGPS2S560B, Middleton
 SPS1G1143AB, Stirling
 3391891959629, Nantwich
 3391891959629, Redcar
-SPS1G1423AB, Roath Cardiff
 SLEGPS2S560B, Leicester Gallowtree Gate
 SLEGPS2S560B, Peckham
 SPS1G1520AB, Elephant and Castle
