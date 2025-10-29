@@ -365,5 +365,4 @@ SLEGPS2S560B, Lakeside
 SLEGPS2S560B, Kennedy Centre
 SLEGPS2S560B, Coventry - Hertford St
 SPS1G1520AB, Boston Bargate
-SPS1G1144AB, Newcastle under Lyme
 SPS1G1143AB, Blackpool
