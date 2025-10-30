@@ -330,7 +330,6 @@ SPS1G1143AB, Stirling
 SLEGPS2S560B, Leicester Gallowtree Gate
 SLEGPS2S560B, Peckham
 SPS1G1520AB, Elephant and Castle
-5060040050088, Southend
 SPS1G1520AB, Aldershot
 SPS1G1423AB, Cwmbran
 SPS1G204AB, Thetford
@@ -339,7 +338,6 @@ SPS1G1143AB, Shrewsbury Castle Street
 SPS1G1520AB, Wakefield
 SLEGPS2S560B, Newcastle Grainger St
 SPS1G1423AB, Peckham
-SPS1G204AB, Coventry - Hertford St
 SPS1G1520AB, Tooting
 SPS1G1423AB, Glasgow Forge
 SLEGPS2S560B, East Ham
