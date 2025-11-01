@@ -353,7 +353,6 @@ SLEGPS2S1670B, Wimbledon
 SPS1G1423AB, Irvine
 SPS1G1423AB, Hull
 SPS1G1423AB, Canvey Island
-SPS1G1520AB, Birkenhead
 SLEGPS2S1670B, Chesterfield
 SPS1G204AB, Ellesmere Port
 SPS1G1144AB, Northfield
