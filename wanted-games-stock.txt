@@ -374,3 +374,4 @@ SPS1G1143AB, Portsmouth
 SPS1G1423AB, Newton Abbot
 711719256892, Chesterfield
 SPS1G1429AB, Dundee
+SPS1G1429AB, Shrewsbury Castle Street
