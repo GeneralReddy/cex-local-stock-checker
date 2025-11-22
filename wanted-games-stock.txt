@@ -346,7 +346,6 @@ SPS1G1143AB, Leeds White Rose
 5060040050088, Coventry - Hertford St
 SLEGPS2S560B, Morley
 SLEGPS2S1670B, Uxbridge
-SLEGPS2S1670B, Wimbledon
 5060040050088, Craigavon
 SPS1G1423AB, Irvine
 SLEGPS2S1670B, Chesterfield
@@ -375,5 +374,4 @@ SPS1G1429AB, Dundee
 SPS1G1429AB, Shrewsbury Castle Street
 711719227359, Shrewsbury Castle Street
 SPS1G1423AB, Roath Cardiff
-SLEGPS2S777B, Horsham
 SPS1G204AB, Aberdeen
