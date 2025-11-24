@@ -352,7 +352,6 @@ SPS1G204AB, Ellesmere Port
 SPS1G1520AB, Lincoln
 SLEGPS2S1670B, Coventry Arena Park
 SLEGPS2S560B, Lakeside
-SLEGPS2S560B, Kennedy Centre
 SLEGPS2S560B, Coventry - Hertford St
 SPS1G1520AB, Boston Bargate
 SPS1G1423AB, Southampton
@@ -375,3 +374,4 @@ SPS1G1429AB, Shrewsbury Castle Street
 SPS1G1423AB, Roath Cardiff
 SPS1G204AB, Aberdeen
 SPS1G1520AB, Glasgow Forge
+SLEGPS2S560B, Bangor Wales
