@@ -331,7 +331,6 @@ SLEGPS2S560B, Leicester Gallowtree Gate
 SLEGPS2S560B, Peckham
 SPS1G1520AB, Elephant and Castle
 SPS1G1520AB, Aldershot
-SPS1G1423AB, Cwmbran
 SPS1G204AB, Thetford
 SPS1G1520AB, Tooting
 SPS1G1423AB, Glasgow Forge
