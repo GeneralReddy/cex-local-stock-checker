@@ -315,7 +315,6 @@ SPS1G306AB, Coventry Cannon Park
 5030930045494, Rhyl
 SPS1G204AB, Hertford
 SPS1G1520AB, Chatham
-SPS1G1520AB, Winchester
 5030930045494, Pontypridd
 5060040050088, Beaumont Leys Leicester
 5030930045494, Harlow
