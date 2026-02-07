@@ -339,7 +339,6 @@ SPS1G1423AB, Irvine
 SPS1G204AB, Ellesmere Port
 SLEGPS2S560B, Lakeside
 SLEGPS2S560B, Coventry - Hertford St
-SPS1G1520AB, Boston Bargate
 SPS1G1423AB, Southampton
 SLEGPS2S560B, Great Yarmouth
 SLEGPS2S1670B, Hinckley
