@@ -371,8 +371,6 @@ SLEGPS2S1670B, Swindon
 SPS1G1429AB, Craigavon
 SLEGPS2S095B, Bradford
 SPS1G1143AB, Gloucester
-SGBOS307AB, Guildford
 093155140103, Melton Mowbray
 SPS1G1143AB, Serpentine Green
-711719256892, Sunderland
 SGBOS307AB, Birkenhead
