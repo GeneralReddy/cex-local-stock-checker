@@ -371,4 +371,3 @@ SGBOS307AB, Birkenhead
 SPS1G1143AB, Melton Mowbray
 SPS1G1143AB, Harlow
 SGBOS307AB, High Wycombe
-SGBOS307AB, Bristol
