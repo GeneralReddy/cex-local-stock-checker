@@ -369,5 +369,4 @@ SLEGPS2S095B, Bradford
 SGBOS307AB, Huntingdon
 SPS1G1144AB, Bristol
 SPS1G1144AB, Reading
-SGBOS307AB, Nuneaton
 SPS1G1144B, Accrington
