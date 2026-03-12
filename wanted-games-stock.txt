@@ -365,5 +365,4 @@ SPS1G1520AB, Glasgow Forge
 SPS1G1429AB, Craigavon
 SLEGPS2S095B, Bradford
 711719256892, Liverpool Lord St
-SPS1G1144AB, Bristol
 5060023734066, Loughborough
