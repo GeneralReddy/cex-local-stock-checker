@@ -367,4 +367,3 @@ SLEGPS2S095B, Bradford
 5060023734066, Loughborough
 SLEGPS2S1670B, Southend
 5060023734066, Ipswich
-5051892209823, Gateshead Metro Centre
