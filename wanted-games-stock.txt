@@ -377,7 +377,6 @@ SLEGPS2S1670B, Crawley
 SPS1G1144AB, Hatfield
 SGBOS307AB, Ayr
 SGBOS307AB, Canterbury
-SGBOS307AB, Long Eaton
 SGBOS307AB, Bracknell
 SLEGPS2S1670B, Edinburgh Cameron Toll
 SLEGPS2S095B, Bishop Auckland
