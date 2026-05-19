@@ -378,6 +378,4 @@ SGBOS307AB, Portsmouth
 SLEGPS2S1670B, Solihull
 SPS1G1144AB, Burnley
 SLEGPS2S777B, Bayswater
-3546430100394, Ashton Under Lyne
 5060070410050, Nottingham Victoria
-5060070410050, Stoke
