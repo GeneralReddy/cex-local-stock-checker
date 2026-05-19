@@ -379,3 +379,4 @@ SLEGPS2S1670B, Solihull
 SPS1G1144AB, Burnley
 SLEGPS2S777B, Bayswater
 5060070410050, Nottingham Victoria
+SGBOS307AB, Loughborough
