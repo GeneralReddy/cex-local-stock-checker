@@ -332,7 +332,6 @@ SPS1G1423AB, Glasgow Forge
 SLEGPS2S560B, East Ham
 4012927030196, Newcastle under Lyme
 4012927030196, Bangor Wales
-SLEGPS2S1670B, Uxbridge
 SPS1G1423AB, Irvine
 SPS1G204AB, Ellesmere Port
 SLEGPS2S560B, Lakeside
