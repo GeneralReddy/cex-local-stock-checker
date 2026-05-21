@@ -377,5 +377,4 @@ SLEGPS2S1670B, Solihull
 SLEGPS2S777B, Bayswater
 5060070410050, Nottingham Victoria
 SGBOS307AB, Loughborough
-5051892209823, Evesham
 SGBOS307AB, Guildford
