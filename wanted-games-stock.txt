@@ -377,3 +377,4 @@ SLEGPS2S777B, Bayswater
 5060070410050, Nottingham Victoria
 SGBOS307AB, Loughborough
 SGBOS307AB, Guildford
+SPS1G1144AB, Coventry Arena Park
