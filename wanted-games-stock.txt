@@ -378,4 +378,5 @@ SLEGPS2S777B, Bayswater
 SGBOS307AB, Loughborough
 SGBOS307AB, Guildford
 SLEGPS2S1670B, Romford
-SGBOS307AB, Milton Keynes
+5051892209823, Windsor
+SPS1G1143AB, Trowbridge
