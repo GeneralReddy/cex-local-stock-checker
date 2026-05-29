@@ -379,7 +379,6 @@ SGBOS307AB, Loughborough
 SGBOS307AB, Guildford
 SLEGPS2S1670B, Romford
 SPS1G1144AB, Yeovil
-SGBOS307AB, Shepherds Bush
 SPS1G1144AB, Leamington Spa
 SGBOS307AB, Maidstone
 3546430100394, Feltham
