@@ -374,7 +374,6 @@ SPS1G1144AB, Maidstone
 SGBOS307AB, Portsmouth
 SLEGPS2S1670B, Solihull
 SLEGPS2S777B, Bayswater
-5060070410050, Nottingham Victoria
 SGBOS307AB, Loughborough
 SGBOS307AB, Guildford
 SLEGPS2S1670B, Romford
