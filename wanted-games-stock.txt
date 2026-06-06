@@ -370,7 +370,6 @@ SLEGPS2S1728C, Camden
 SLEGPS2S095B, Bishop Auckland
 5030917291463, Dagenham
 SGBOS307AB, Portsmouth
-SLEGPS2S1670B, Solihull
 SLEGPS2S777B, Bayswater
 SGBOS307AB, Loughborough
 SGBOS307AB, Guildford
