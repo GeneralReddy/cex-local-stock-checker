@@ -378,3 +378,4 @@ SLEGPS2S095B, Walsall
 SGBOS307AB, Crystal Peaks
 5060023734066, Rochdale
 SLEGGCS310B, North Shields
+SGBOS307AB, Barking
