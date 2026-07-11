@@ -379,3 +379,4 @@ SLEGGCS310B, North Shields
 SGBOS307AB, Barking
 SGBOS307AB, Swansea
 SPS1G1144AB, Glasgow Sauchiehall
+SGBOS307AB, Carmarthen
