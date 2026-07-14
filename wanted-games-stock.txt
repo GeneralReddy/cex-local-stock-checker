@@ -381,3 +381,4 @@ SPS1G1144AB, Glasgow Sauchiehall
 SGBOS307AB, Carmarthen
 SLEGPS2S1670B, Gloucester
 SGBOS307AB, Dunfermline
+SGBOS307AB, Glasgow Sauchiehall
