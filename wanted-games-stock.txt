@@ -379,4 +379,3 @@ SGBOS307AB, Swansea
 SPS1G1144AB, Glasgow Sauchiehall
 SGBOS307AB, Carmarthen
 SGBOS307AB, Dunfermline
-SGBOS307AB, Glasgow Sauchiehall
