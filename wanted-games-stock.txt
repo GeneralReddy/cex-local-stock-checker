@@ -377,5 +377,4 @@ SGBOS307AB, Barking
 SPS1G1144AB, Glasgow Sauchiehall
 SGBOS307AB, Carmarthen
 SGBOS307AB, Dunfermline
-SPS1G1143AB, Coventry Cannon Park
 SGBOS307AB, Letchworth
