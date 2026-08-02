@@ -379,3 +379,4 @@ SLEGPS2S1670B, Clacton on Sea
 SPS1G1144AB, Burgess Hill
 SGBOS307AB, Merry Hill
 5030917291463, Dudley
+SGBOS307AB, Glasgow Sauchiehall
